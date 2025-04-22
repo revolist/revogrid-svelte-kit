@@ -19,6 +19,6 @@
 		"vite": "^6.3.2"
 	},
 	"dependencies": {
-		"@revolist/svelte-datagrid": "^4.15.5"
+		"@revolist/svelte-datagrid": "^4.15.6"
 	}
 }
